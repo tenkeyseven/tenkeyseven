@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tenkeyseven
 - 👀 I’m interested in adversarial examples/backdoor attacks(graduation design); data mining and analysis(job may needs); instruments learning tools(not start wuwuw);
-- 🌱 I’m currently learning Vison Transformer Model.
+- 🌱 I’m currently learning Vision Transformer Model.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: tenkeyseven@gmail.com
 

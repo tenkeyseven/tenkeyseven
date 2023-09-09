@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @tenkeyseven
-- 🎒 python.
 - 👀 I’m interested tools that help us in our workflows. 
 - 🌱 I’m currently get touching in LLMs relevant tools..
 - 📫 How to reach me: tenkeyseven@gmail.com
